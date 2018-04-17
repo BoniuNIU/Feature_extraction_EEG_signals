@@ -1,7 +1,7 @@
 function [STD,Max,Min,Mean] = Windo(Signal,L)
 % The function of Windo calculate the Standard Deviation of the main signal
 % which is inside of a L length window and STD shows the standard deviasion
-% of the window.
+% of the window. Max, Min and Mean calculate maximum, minimum and mean of the signals, respectively.
 
 W = zeros(1,L);
 k=1;
