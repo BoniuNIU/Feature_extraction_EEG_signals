@@ -1,0 +1,1 @@
+This repository studies some different feature extraction methods of the EEG signals in matlab.
